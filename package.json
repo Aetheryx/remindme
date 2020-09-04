@@ -24,7 +24,7 @@
     "jsonschema": "^1.2.4",
     "moment": "^2.22.1",
     "moment-duration-format": "^2.2.2",
-    "mongodb": "^3.0.8",
+    "mongodb": "^3.1.13",
     "os-utils": "^0.0.14",
     "time-parser": "^0.2.10"
   },
